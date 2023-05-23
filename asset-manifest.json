@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/my_portfolio/static/css/main.ca45109e.css",
+    "main.js": "/my_portfolio/static/js/main.7742e519.js",
+    "static/media/about.png": "/my_portfolio/static/media/about.11391a383aadba412fa4.png",
+    "static/media/mayank.png": "/my_portfolio/static/media/mayank.c47193cbb2563acbdb19.png",
+    "static/media/site-bg.jpg": "/my_portfolio/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "static/media/crypto-hunter.jpg": "/my_portfolio/static/media/crypto-hunter.2d6ae044c7df4aa0788a.jpg",
+    "static/media/nike-store.jpg": "/my_portfolio/static/media/nike-store.3ccc0dd0cb2a8b471241.jpg",
+    "static/media/myportfolio.jpg": "/my_portfolio/static/media/myportfolio.e4026701985774cebece.jpg",
+    "index.html": "/my_portfolio/index.html",
+    "main.ca45109e.css.map": "/my_portfolio/static/css/main.ca45109e.css.map",
+    "main.7742e519.js.map": "/my_portfolio/static/js/main.7742e519.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca45109e.css",
+    "static/js/main.7742e519.js"
+  ]
+}
